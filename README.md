@@ -5,8 +5,11 @@ Deleting Tasks: Tasks that have been completed or are no longer needed can be re
 Task Status Marker: Each task can be marked as completed or pending.
 
 1.first you must be install libary (tkcalendar)
+
 2.pip install tkcalendar
+
 3.and then run the the code with command:
+
 4.python todolist.py
 
 thanks you.
