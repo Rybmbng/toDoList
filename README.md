@@ -6,11 +6,11 @@ Task Status Marker: Each task can be marked as completed or pending.
 
 1.first you must be install libary (tkcalendar)
 
-2.pip install tkcalendar
+2.`pip install tkcalendar`
 
 3.and then run the the code with command:
 
-4.python todolist.py
+4.`python todolist.py`
 
 thanks you.
 ![image](https://github.com/user-attachments/assets/80777774-9522-4c4e-9eda-f5b10f5f7aea)
